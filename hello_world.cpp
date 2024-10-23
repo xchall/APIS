@@ -2,7 +2,7 @@
 int
 main()
 {
-  // код с комментарием :)
+  // code with comment :)
   std::string user_name;
   std::cout << "Enter user name: ";
   std::cin >> user_name;
