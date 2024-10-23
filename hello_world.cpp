@@ -1,5 +1,7 @@
 #include <iostream>
-int main(){
+int
+main()
+{
   // код с комментарием :)
   std::string user_name;
   std::cout << "Enter user name: ";
